@@ -10,7 +10,3 @@ client_scripts {
 	'config.lua',
 	'client.lua'
 }
-
-escrow_ignore {
-    'config.lua'
-}
